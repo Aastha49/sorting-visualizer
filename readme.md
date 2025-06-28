@@ -48,18 +48,11 @@ Time (for animation delays)
 
 🧑‍💻 How to Run
 Clone the Repository
-
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/sorting-visualizer-tkinter.git
 cd sorting-visualizer-tkinter
+
 Run the Script
 Make sure you have Python 3 installed. Then run:
-
-bash
-Copy
-Edit
 python sorting_visualizer.py
 
 
